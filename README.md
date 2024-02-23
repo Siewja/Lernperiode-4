@@ -19,15 +19,19 @@ Heute habe ich mir überlegt was für ein Projekt ich machen will, danach habe i
 
 ## 27.2.2024
 
+
+
+
 - [ ] Mit der Blog Präsentation, ein GitHub respository erstellen und die benötigten Codes einfügen. 
 - [ ] Modul 187 aufträge nachholen
+- [ ] Modul instruction
 - [ ] 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |                      |     github website öffnen           |   funktionierende website wird geöffnet             |          |
+| 1         |        präsi              |     github website öffnen           |   funktionierende website wird geöffnet             |          |
 | 2 
-|3                      |                |                |          |
+|3                      |      modul auftrag          | fertig von Arbeitspaket|   auftrag fertig       |
 | 4               |                      |                |                |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
