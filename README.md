@@ -6,7 +6,7 @@
 
 1. Meine Informatiknoten sind recht gesunken von ca 5.5 zu einem 4.5 durchschnitt was sehr schade ist. Ich muss mich unbedingt wieder mit meinen Modulen auseinandersetzen da ich sonst bald nicht mehr hinterher komme. Das Modul 117 war ein sehr schwieriges Thema für mich, sowie auch für den SQL brauchte ich sehr lange um dies zu schaffen. Die Testergebnsise habe ich noch nicht zurück, jedoch bin ich nicht ganz positiv gestellt. Das Neue Modul 187 ist für mich auch richtig neu, da ich mich nie mit Computer etc interessiert habe. 
    
-2. Eigentlich hatte ich mir vorgenommen ein kleines Projekt zu tätigen, jedoch war dies nicht möglich da ein einen teil mit 100% Arbeitsunfähigkeit weg war. Das Thema das ich mir ausgedacht hatte, war für mich auch mega langweilig, da ich mich eher für Module und Technik algemein interessiere und nicht für das Porgrammieren.
+2. Eigentlich hatte ich mir vorgenommen ein kleines Projekt zu tätigen, jedoch war dies nicht möglich da ein einen teil mit 100% Arbeitsunfähigkeit weg war. Das Thema das ich mir ausgedacht hatte, war für mich auch mega langweilig, da ich mich eher für Module und Technik algemein interessiere und nicht für das Porgrammieren. 
    
 3. Was ich gerne lernen würde, wäre wie ich meinen Laptop am besten in meinem ALltag benutzen kann, wie funktionieren shortcuts etc, jedoch hat dies nichts mit programmeiren zu. Ich würde gerne meine Modul noten wieder hochbekommen und einfach das Semester bestehen, damit ich dannach in die FMS wechseln kann. 
 
