@@ -15,18 +15,19 @@
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir überlegt was für ein Projekt ich machen will, danach habe ich mir überlegt das ich gerne eine Website für meinen Blog machen würde. Ich wurde darauf hingewiesen das ich dies über Github machen kann, was ich auch dann auch machen will. Ich habe mich heute darüber informiert wie HTML und CSS aufgebaut ist, da ich dies jedoch durch Github machen will, habe ich kein tutorial für nächste Woche gesucht. (73 Wörter) 
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Mit der Blog Präsentation, ein GitHub respository erstellen und die benötigten Codes einfügen. 
+- [ ] Modul 187 aufträge nachholen
+- [ ] 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
+| 1         |                      |     github website öffnen           |   funktionierende website wird geöffnet             |          |
+| 2 
+|3                      |                |                |          |
 | 4               |                      |                |                |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
