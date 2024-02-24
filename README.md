@@ -23,16 +23,16 @@ Heute habe ich mir überlegt was für ein Projekt ich machen will, danach habe i
 
 
 - [ ] Mit der Blog Präsentation, ein GitHub respository erstellen und die benötigten Codes einfügen. 
-- [ ] Modul 187 aufträge nachholen
-- [ ] Modul instruction
-- [ ] 
+- [ ] Modul 187 aufträge nachholen (dokumentation) 
+- [ ] Modul instruction (neues Modul) 
+- [ ] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1         |        präsi              |     github website öffnen           |   funktionierende website wird geöffnet             |          |
-| 2 
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. |
 |3                      |      modul auftrag          | fertig von Arbeitspaket|   auftrag fertig       |
-| 4               |                      |                |                |          |
+| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
