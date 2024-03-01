@@ -18,26 +18,41 @@
 Heute habe ich mir überlegt was für ein Projekt ich machen will, danach habe ich mir überlegt das ich gerne eine Website für meinen Blog machen würde. Ich wurde darauf hingewiesen das ich dies über Github machen kann, was ich auch dann auch machen will. Ich habe mich heute darüber informiert wie HTML und CSS aufgebaut ist, da ich dies jedoch durch Github machen will, habe ich kein tutorial für nächste Woche gesucht. (73 Wörter) 
 
 ## 27.2.2024
-
-
-
-
-- [ ] Mit der Blog Präsentation, ein GitHub respository erstellen und die benötigten Codes einfügen. 
-- [ ] Modul 187 aufträge nachholen (dokumentation) 
-- [ ] Modul instruction (neues Modul) 
+- [x] Mit der Blog Präsentation, ein GitHub respository erstellen und die benötigten Codes einfügen. 
+- [x] Modul 187 aufträge nachholen (dokumentation) 
+- [x] Modul instruction (neues Modul) 
 - [ ] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |        präsi              |     github website öffnen           |   funktionierende website wird geöffnet             |          |
-| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. |
-|3                      |      modul auftrag          | fertig von Arbeitspaket|   auftrag fertig       |
+| 1         |        präsi              |     github website öffnen           |   funktionierende website wird geöffnet             |    nein      |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | ja
+|3                      |      modul auftrag          | fertig von Arbeitspaket|   auftrag fertig       | ja
+| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |     nein     |
+
+
+Ich habe versucht meinen Github beitrag nach Vorlage zu erstellen, jedoch heisst es das es diesen nicht gäbte, dies müsste ich nächste Woche nochmals versuchen. 
+<img width="531" alt="image" src="https://github.com/Siewja/Lernperiode-4/assets/142606001/69664df7-7d13-487a-a146-014df3ee389a">
+
+In dieser Woche habe ich an meinen Aufträgen gearbeitet. Ich habe das Thema virtual Maschines kennengelernt und habe mir zwei VM (Windows und Linux). Zudem habe ich meine Dokumentation weitergeschrieben, heute habe ich Kaptiel 2 bis 4. Mit dem Vierten Kapittel bin ich noch nicht vollständig fertig geworden, da ich mich sehr intensive mit meinen Schnittstellen meines Notebookes auseinandergesetzt habe.
+
+(Wie kann ich ein Dokument senden/ in githb einfügen?) 
+
+
+## 8.03.2024
+
+- [ ] Die Blogseite zum laufen bringen, fehler suchen etc
+- [ ] Modul 187 Dokumentation Kapitel 4-7 fertig bringen
+- [ ] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown
+- [ ] Vitual Maschine auftrag
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |          |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | 
+|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | 
 | 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |          |
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 
 
 ## Reflexion
