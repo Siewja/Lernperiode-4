@@ -58,3 +58,25 @@ In dieser Woche habe ich an meinen Aufträgen gearbeitet. Ich habe das Thema vir
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+## 15.03.2024
+
+- [ ] Die Blogseite zum laufen bringen, fehler suchen etc
+- [x] Modul 187 Dokumentation Kapitel 4-7 fertig bringen
+- [x] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown
+- [ ] Vitual Maschine auftrag
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |          |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | 
+|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | 
+| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |          |
+
+
+## Reflexion
+
+Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+In dieser Woche habe ich an meinen Aufträgen, die ich Letzte woche aufgelistet habe, gearbeitet. Diese Woche habe ich die Dokumentation des Moduls 187 für Kapitel 4 bis 7 beendet. Zudem habe ich das Tutorial für den Markdown angeschaut und diese in der Guthub Webseite verwendet. Leider beinhaltet diese noch Fehler weshalb man die Webseite aktuell noch nicht Starten kann.
