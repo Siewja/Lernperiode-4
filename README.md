@@ -49,10 +49,10 @@ In dieser Woche habe ich an meinen Aufträgen gearbeitet. Ich habe das Thema vir
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |          |
-| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | 
-|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | 
-| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |          |
+| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |  nain        |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | nain
+|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | nain
+| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |     ja     |
 
 
 ## Reflexion
@@ -69,10 +69,10 @@ Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhä
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |          |
-| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | 
-|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | 
-| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |          |
+| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |   nein     |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | nein
+|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | ja |
+| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |    ja      |
 
 
 ## Reflexion
