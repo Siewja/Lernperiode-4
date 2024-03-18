@@ -38,30 +38,11 @@ In dieser Woche habe ich an meinen Aufträgen gearbeitet. Ich habe das Thema vir
 
 (Wie kann ich ein Dokument senden/ in githb einfügen?) 
 
-
-## 8.03.2024
-
-- [ ] Die Blogseite zum laufen bringen, fehler suchen etc
-- [ ] Modul 187 Dokumentation Kapitel 4-7 fertig bringen
-- [ ] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown
-- [ ] Vitual Maschine auftrag
-
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |  nain        |
-| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | nain
-|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | nain
-| 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |     ja     |
-
-
-## Reflexion
-
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+## 8.03.2024 - Krankheit 
 
 ## 15.03.2024
 
-- [ ] Die Blogseite zum laufen bringen, fehler suchen etc
+- [x] Die Blogseite zum laufen bringen, fehler suchen etc
 - [x] Modul 187 Dokumentation Kapitel 4-7 fertig bringen
 - [x] https://github.com/skills/github-pages // tutorial + https://www.youtube.com/watch?v=o5g-lUuFgpg Tutorial für Markdown
 - [ ] Vitual Maschine auftrag
@@ -69,11 +50,27 @@ Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhä
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |   nein     |
+| 1         |        website             |     github website öffnen           |   funktionierende website wird geöffnet             |   ja    |
 | 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | nein
 |3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 4-7 fertig    | ja |
 | 4               |        tutorials      |       anschauen und ausprobieren       |       lerne ich         |    ja      |
 
+In dieser Woche habe ich es endlich geschafft den fehler der Bloggithub Seite zu finden. Ich bin mir unsicher was der Fehler war, jedoch funktioniert es jetzt. Als nächstes Möchte ich Anfangen mit dem Markdown der website. Zudem habe ich an meiner Dokumentation gearbeitet und konnte die nächsten paar Themen fertigstellen. Ich habe die Tutorials angeschaut und bin nun im Klaren wie ich das Markdown zu meinem nutzen verwenden kann. 
+
+## 22.03.2024
+
+- [ ] Markdown auf meiner Bloggseite sinnvoll einfügen während ich meinen Erseten Bloggeintrag erstelle. 
+- [ ] Modul 164 Aufträge (wenn nicht schon fertig) fertigstellen 
+- [ ] Modul 187 Dokumentation Kapitel 8-12 fertig bringen
+- [ ] Vitual Maschine zum laufen bringen + Auftrag dazu dokumentieren
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1         |        Markdown tutorials angeschaut            |     Markdown anwenden        |  1. Bloggeintrag           |       |
+| 2 | offener Auftrag | "was muss ich machen damit ich diesen Auftrag und dieses Thema verstehe?" | Auftrag erfolgreich erfüllt. | 
+|3                      |      Dokumentation          | fertig von Arbeitspaket |   Kapitel 8-12 fertig    |  |
+| 4               |        VirtualMAschine     |      VM öffen       |       VM funktioniert         |         |
 
 ## Reflexion
 
